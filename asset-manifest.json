@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/andresfelipe3112/proyectoCajasReact/static/css/main.41d61030.chunk.css",
+    "main.js": "/andresfelipe3112/proyectoCajasReact/static/js/main.33b8c9ec.chunk.js",
+    "main.js.map": "/andresfelipe3112/proyectoCajasReact/static/js/main.33b8c9ec.chunk.js.map",
+    "runtime-main.js": "/andresfelipe3112/proyectoCajasReact/static/js/runtime-main.746cbc74.js",
+    "runtime-main.js.map": "/andresfelipe3112/proyectoCajasReact/static/js/runtime-main.746cbc74.js.map",
+    "static/js/2.90461b49.chunk.js": "/andresfelipe3112/proyectoCajasReact/static/js/2.90461b49.chunk.js",
+    "static/js/2.90461b49.chunk.js.map": "/andresfelipe3112/proyectoCajasReact/static/js/2.90461b49.chunk.js.map",
+    "index.html": "/andresfelipe3112/proyectoCajasReact/index.html",
+    "static/css/main.41d61030.chunk.css.map": "/andresfelipe3112/proyectoCajasReact/static/css/main.41d61030.chunk.css.map",
+    "static/js/2.90461b49.chunk.js.LICENSE.txt": "/andresfelipe3112/proyectoCajasReact/static/js/2.90461b49.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.746cbc74.js",
+    "static/js/2.90461b49.chunk.js",
+    "static/css/main.41d61030.chunk.css",
+    "static/js/main.33b8c9ec.chunk.js"
+  ]
+}
