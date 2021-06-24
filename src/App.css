@@ -1,0 +1,36 @@
+.App {
+  text-align: center;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  background: yellow;
+  
+}
+
+.container {
+  display: flex;
+  flex-direction:column;
+  width: 60vh;
+  height: 45vh;
+  margin:3vh; 
+  justify-content: flex-start;
+   
+  }
+
+  
+  .container {background-image: linear-gradient(to right, #DA22FF 0%, #9733EE  51%, #DA22FF  100%)}
+  .container {
+    
+     text-align: center;
+    
+     transition: 0.5s;
+     background-size: 200% auto;
+     color: white;            
+     box-shadow: 0 0 20px #eee;
+     border-radius: 10px;
+     
+   }
+
+  
+  
+
